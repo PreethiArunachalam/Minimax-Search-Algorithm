@@ -112,6 +112,7 @@ end
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
 <hr>
+
 ## Program:
 ```
 import time
@@ -274,6 +275,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
 ## Output:
 ![image](https://github.com/user-attachments/assets/89eff771-6d5c-49fd-854f-8145ac506668)
 
